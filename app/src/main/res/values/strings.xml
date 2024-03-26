@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Stori App</string>
+
+    <!--    Login Screen    -->
+    <string name="email">Correo</string>
+    <string name="password">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_text">¿Aún no tienes cuenta?</string>
+    <string name="register">Regístrate</string>
+    <string name="required">%1$s es necesario</string>
+
+    <!--    Register Screen    -->
+    <string name="name">Nombre</string>
+    <string name="surname">Apellido</string>
+    <string name="register_buton">Registrate</string>
+    <string name="success">Registro exitoso</string>
+
+    <!--    Home Screen    -->
+    <string name="header_title_home">Bienvenido</string>
+    <string name="user_error">Error al obtener el nombre de usuario %s</string>
+    <string name="balance_error">Error al obtener el saldo del usuario %s</string>
+    <string name="balance">Su saldo es: </string>
+    <string name="movements">Sus ultimos movimientos fueron:</string>
+</resources>
